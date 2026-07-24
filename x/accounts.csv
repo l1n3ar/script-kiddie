@@ -1,0 +1,212 @@
+username,name,company,role,priority,tags,hire_signal,quality,last_verified,notes
+sama,Sam Altman,OpenAI,CEO,5,"ai,founder,openai",5,5,2026-07-24,"Major OpenAI announcements and hiring"
+demishassabis,Demis Hassabis,Google DeepMind,CEO,5,"ai,research,founder",4,5,2026-07-24,"DeepMind research and product releases"
+DarioAmodei,Dario Amodei,Anthropic,CEO,5,"ai,founder",4,5,2026-07-24,"Anthropic direction and AI safety"
+karpathy,Andrej Karpathy,Eureka Labs,Founder,5,"ai,research,education",2,5,2026-07-24,"One of the highest-signal AI educators"
+ylecun,Yann LeCun,Meta,Chief AI Scientist,5,"ai,research",1,5,2026-07-24,"Research discussions"
+fchollet,Francois Chollet,ARC Prize,Keras Creator,5,"ai,research",1,5,2026-07-24,"Deep ML discussions"
+AndrewYNg,Andrew Ng,DeepLearning.AI,Founder,5,"ai,education",2,5,2026-07-24,"Courses and industry trends"
+DrJimFan,Jim Fan,NVIDIA,Research Scientist,5,"ai,nvidia,research",2,5,2026-07-24,"Embodied AI"
+rasbt,Sebastian Raschka,Lightning AI,Researcher,5,"ai,education",1,5,2026-07-24,"Hands-on ML"
+simonw,Simon Willison,Independent,Developer,5,"ai,llm,oss",2,5,2026-07-24,"LLM ecosystem"
+swyx,Shawn Wang,Latent Space,Founder,5,"ai,creator,startups",4,5,2026-07-24,"AI Engineering"
+hwchase17,Harrison Chase,LangChain,Founder,5,"ai,oss,langchain",4,5,2026-07-24,"LangChain updates"
+jerryjliu0,Jerry Liu,LlamaIndex,Founder,5,"ai,rag",4,5,2026-07-24,"RAG and agents"
+jxmnop,Jason Liu,Independent,AI Engineer,5,"ai,llm",2,5,2026-07-24,"LLM engineering"
+alessiofanelli,Alessio Fanelli,AI Engineer,Founder,5,"ai,community,hiring",5,5,2026-07-24,"AI engineering community"
+rowancheung,Rowan Cheung,The Rundown AI,Creator,4,"ai,news",1,4,2026-07-24,"AI news"
+deedydas,Deedy Das,Menlo Ventures,VC,4,"ai,venture",3,5,2026-07-24,"AI investing"
+bindureddy,Bindu Reddy,Abacus.AI,Founder,4,"ai,founder",4,4,2026-07-24,"Founder insights"
+lexfridman,Lex Fridman,MIT,Researcher,4,"ai,podcast",1,5,2026-07-24,"Long-form interviews"
+JeffDean,Jeff Dean,Google,Chief Scientist,5,"ai,research",1,5,2026-07-24,"Google AI"
+
+leerob,Lee Robinson,Vercel,VP Developer Experience,5,"creator,devtools,hiring",5,5,2026-07-24,"Excellent hiring signal"
+rauchg,Guillermo Rauch,Vercel,Founder,5,"founder,cloud",5,5,2026-07-24,"Vercel and AI"
+shadcn,shadcn,Independent,Creator,5,"frontend,oss",1,5,2026-07-24,"UI ecosystem"
+theo,Theo Browne,Ping.gg,Creator,5,"creator,startups",2,5,2026-07-24,"Web + startup content"
+t3dotgg,Theo Browne,Ping.gg,Creator,5,"creator,web",2,5,2026-07-24,"Developer discussions"
+fireship_dev,Fireship,Fireship,Creator,5,"creator,education",1,5,2026-07-24,"Developer news"
+mattpocockuk,Matt Pocock,Total TypeScript,Creator,5,"typescript",1,5,2026-07-24,"TypeScript"
+kentcdodds,Kent C. Dodds,Epic Web,Educator,5,"react",1,5,2026-07-24,"Frontend"
+cassidoo,Cassidy Williams,Contenda,Developer Advocate,5,"career,creator",3,5,2026-07-24,"Career advice"
+JoshWComeau,Josh Comeau,Independent,Educator,5,"frontend",1,5,2026-07-24,"CSS and React"
+HusseinNasser,Hussein Nasser,Independent,Educator,5,"backend,systems",1,5,2026-07-24,"Backend architecture"
+addyosmani,Addy Osmani,Google,Engineering Leader,5,"performance,frontend",2,5,2026-07-24,"Performance"
+dan_abramov,Dan Abramov,Bluesky,Engineer,5,"react",1,5,2026-07-24,"React"
+jarredsumner,Jarred Sumner,Bun,Founder,5,"runtime,oss",3,5,2026-07-24,"Bun"
+antfu7,Anthony Fu,VoidZero,Founder,5,"vue,oss",3,5,2026-07-24,"Vue ecosystem"
+evan_you,Evan You,VoidZero,Founder,5,"vue",2,5,2026-07-24,"Vue.js"
+thdxr,Thorsten Ball,Sourcegraph,Engineer,4,"go,compiler",1,5,2026-07-24,"Systems programming"
+
+eastdakota,Matthew Prince,Cloudflare,Co-founder & CEO,5,"infra,cloud,founder",5,5,2026-07-24,"Cloudflare announcements and engineering"
+Cloudflare,Cloudflare,Cloudflare,Company,5,"company,infra,hiring",5,5,2026-07-24,"Official account"
+CloudflareDev,Cloudflare Developers,Cloudflare,Developer Platform,5,"devtools,infra",4,5,2026-07-24,"Workers, AI, R2, D1"
+threepointone,Surmajeet ?,Cloudflare,Engineer,5,"workers,edge,ai",2,5,2026-07-24,"Cloudflare Agents"
+KentonVarda,Kenton Varda,Cloudflare,Engineer,5,"workers,runtime",2,5,2026-07-24,"Workers runtime"
+
+flydotio,Fly.io,Fly.io,Company,5,"company,infra,hiring",4,5,2026-07-24,"Deployment platform"
+jeresig,Jerome Gravel-Niquet,Fly.io,CTO,5,"infra,backend",2,5,2026-07-24,"Distributed systems"
+
+railway,Railway,Railway,Company,5,"company,infra",4,5,2026-07-24,"Backend hosting"
+render,Render,Render,Company,5,"company,infra",4,5,2026-07-24,"Cloud platform"
+
+neondatabase,Neon,Neon,Company,5,"database,postgres",4,5,2026-07-24,"Serverless Postgres"
+tursodatabase,Turso,Turso,Company,5,"database,sqlite",4,5,2026-07-24,"Edge SQLite"
+planetscale,PlanetScale,PlanetScale,Company,5,"database,mysql",4,5,2026-07-24,"MySQL platform"
+supabase,Supabase,Supabase,Company,5,"database,backend",5,5,2026-07-24,"Remote hiring"
+
+convex_dev,Convex,Convex,Company,5,"backend,db",4,5,2026-07-24,"Reactive backend"
+modal_labs,Modal,Modal,Company,5,"gpu,infra,ai",4,5,2026-07-24,"GPU compute"
+replicate,Replicate,Replicate,Company,5,"ai,inference",4,5,2026-07-24,"Model deployment"
+togethercompute,Together AI,Together AI,Company,5,"llm,inference",4,5,2026-07-24,"Open model ecosystem"
+
+oven_sh,Bun,Bun,Company,5,"runtime,javascript",4,5,2026-07-24,"Bun releases"
+jarredsumner,Jarred Sumner,Bun,Founder,5,"runtime,oss",3,5,2026-07-24,"Bun founder"
+
+antfu7,Anthony Fu,VoidZero,Founder,5,"oss,vue",3,5,2026-07-24,"Open-source maintainer"
+evanyou,Evan You,VoidZero,Founder,5,"vue,oss",2,5,2026-07-24,"Vue creator"
+
+tjholowaychuk,TJ Holowaychuk,Independent,OSS Maintainer,5,"node,oss",1,5,2026-07-24,"Influential OSS author"
+sindresorhus,Sindre Sorhus,Independent,OSS Maintainer,5,"oss,javascript",1,5,2026-07-24,"Thousands of npm packages"
+
+torvalds,Linus Torvalds,Linux Foundation,Creator,5,"linux,oss",1,5,2026-07-24,"Linux creator"
+bradfitz,Brad Fitzpatrick,Google,Distinguished Engineer,5,"go,infrastructure",2,5,2026-07-24,"Go ecosystem"
+rakyll,JBD,Google,Engineer,5,"go,backend",2,5,2026-07-24,"Go and cloud"
+mplscorwin,Mitchell Hashimoto,Ghostty,Founder,5,"oss,infrastructure",3,5,2026-07-24,"HashiCorp founder"
+kelseyhightower,Kelsey Hightower,Independent,Engineer,5,"kubernetes,cloud",2,5,2026-07-24,"Cloud architecture"
+
+adrianco,Adrian Cockcroft,Former AWS,Advisor,5,"distributed-systems,cloud",2,5,2026-07-24,"Architecture"
+benbjohnson,Ben Johnson,Fly.io,VP Product,4,"go,backend",2,5,2026-07-24,"Go and databases"
+
+grafbase,Grafbase,Grafbase,Company,4,"graphql,backend",3,4,2026-07-24,"Developer platform"
+workos,WorkOS,WorkOS,Company,4,"auth,b2b",4,5,2026-07-24,"Developer infrastructure"
+clerkdev,Clerk,Clerk,Company,4,"auth,developer-tools",4,5,2026-07-24,"Authentication"
+resend,Resend,Resend,Company,4,"email,api",4,5,2026-07-24,"Email API"
+inngest,Inngest,Inngest,Company,4,"workflows,backend",4,5,2026-07-24,"Background jobs"
+
+openstatusHQ,OpenStatus,OpenStatus,Company,4,"monitoring,opensource",2,4,2026-07-24,"Status pages"
+
+posthog,PostHog,PostHog,Company,5,"analytics,opensource",4,5,2026-07-24,"Product analytics"
+
+garrytan,Garry Tan,Y Combinator,President,5,"yc,founder,investor,startups",5,5,2026-07-24,"Posts startup hiring and YC ecosystem updates"
+paulg,Paul Graham,Y Combinator,Co-founder,5,"yc,founder,startups",3,5,2026-07-24,"Startup essays and founder advice"
+ycombinator,Y Combinator,Y Combinator,Accelerator,5,"company,yc,hiring",5,5,2026-07-24,"YC jobs and startup launches"
+
+lennysan,Lenny Rachitsky,Lenny's Newsletter,Founder,5,"product,startups",2,5,2026-07-24,"Product and startup discussions"
+
+eladgil,Elad Gil,Elad Gil,Investor,5,"investor,ai,startups",4,5,2026-07-24,"AI startup investing"
+
+deedydas,Deedy Das,Menlo Ventures,Investor,5,"vc,ai,startups",4,5,2026-07-24,"Engineering and startup analysis"
+
+cdixon,Chris Dixon,a16z,GP,5,"vc,crypto,startups",3,5,2026-07-24,"Technology investing"
+
+a16z,Andreessen Horowitz,a16z,VC Firm,5,"company,vc",4,5,2026-07-24,"Portfolio and hiring"
+
+sequoia,Sequoia Capital,Sequoia,VC Firm,5,"company,vc",4,5,2026-07-24,"Startup ecosystem"
+
+Accel,Accel,Accel,VC Firm,4,"company,vc",3,4,2026-07-24,"Portfolio updates"
+
+notionhq,Notion,Notion,Company,5,"company,product,hiring",4,5,2026-07-24,"Engineering and hiring"
+
+Linear,Linear,Linear,Company,5,"company,devtools",4,5,2026-07-24,"Developer tooling"
+
+mercury,Mercury,Mercury,Company,5,"company,fintech",4,5,2026-07-24,"Startup banking"
+
+stripe,Stripe,Stripe,Company,5,"company,payments,hiring",5,5,2026-07-24,"Engineering"
+
+GitHub,GitHub,GitHub,Company,5,"company,oss,hiring",5,5,2026-07-24,"Open source"
+
+vercel,Vercel,Vercel,Company,5,"company,frontend,hiring",5,5,2026-07-24,"Developer platform"
+
+netlify,Netlify,Netlify,Company,4,"company,frontend",3,4,2026-07-24,"Web platform"
+
+planetcassidy,Cassidy Williams,Contenda,Developer Advocate,5,"creator,career,hiring",4,5,2026-07-24,"Frequently shares job opportunities"
+
+karrisaarinen,Karri Saarinen,Linear,Founder,5,"founder,product",3,5,2026-07-24,"Founder insights"
+
+dhh,David Heinemeier Hansson,37signals,CTO,5,"backend,ruby,founder",2,5,2026-07-24,"Engineering"
+
+zachlloydtx,Zach Lloyd,Warp,Founder,5,"terminal,developer-tools",4,5,2026-07-24,"Developer productivity"
+
+jacob,Jacob Jackson,Tab,Founder,4,"founder,startups",3,4,2026-07-24,"Startup building"
+
+shl,Shlomo Freund,Builder,Founder,4,"indie,saas",2,4,2026-07-24,"Build in public"
+
+levelsio,Pieter Levels,Nomad List,Founder,5,"indie,remote,founder",3,5,2026-07-24,"Remote work"
+
+marclouvion,Marc Louvion,ShipFast,Founder,5,"indie,saas",3,5,2026-07-24,"Bootstrapped startups"
+
+patwalls,Pat Walls,Starter Story,Founder,4,"startups",2,5,2026-07-24,"Founder interviews"
+
+arvidkahl,Arvid Kahl,Independent,Founder,4,"bootstrapping",2,5,2026-07-24,"SaaS"
+
+peer_rich,Peer Richelsen,Cal.com,Co-founder,5,"open-source,startups",4,5,2026-07-24,"Cal.com"
+
+baun,Bailey Pumfleet,Cal.com,Founder,4,"startups",3,4,2026-07-24,"Founder"
+
+posthog,PostHog,PostHog,Company,5,"opensource,analytics,hiring",4,5,2026-07-24,"Excellent engineering blog"
+
+workos,WorkOS,WorkOS,Company,5,"developer-tools,b2b,hiring",5,5,2026-07-24,"Frequently hiring engineers"
+
+clerkdev,Clerk,Clerk,Company,5,"auth,developer-tools",4,5,2026-07-24,"Developer platform"
+
+resend,Resend,Resend,Company,5,"email,developer-tools",4,5,2026-07-24,"Developer API"
+
+inngest,Inngest,Inngest,Company,5,"workflows,developer-tools",4,5,2026-07-24,"Event-driven backend"
+
+dubdotco,Dub,Dub,Company,4,"opensource,marketing",3,4,2026-07-24,"Open-source growth"
+
+dubsh,Steven Tey,Dub,Founder,5,"founder,opensource",4,5,2026-07-24,"Developer founder"
+
+typefully,Typefully,Typefully,Company,4,"creator-tools",2,4,2026-07-24,"Creator platform"
+
+openai,OpenAI,OpenAI,Company,5,"company,ai,hiring",5,5,2026-07-24,"AI releases"
+
+AnthropicAI,Anthropic,Anthropic,Company,5,"company,ai,hiring",5,5,2026-07-24,"Claude and hiring"
+
+huggingface,Hugging Face,Hugging Face,Company,5,"company,ai,opensource",5,5,2026-07-24,"Models and OSS"
+
+cursor_ai,Cursor,Cursor,Company,5,"company,ai,developer-tools",5,5,2026-07-24,"Rapid product shipping"
+
+modal_labs,Modal,Modal,Company,5,"company,gpu,ai",4,5,2026-07-24,"GPU infrastructure"
+
+replicate,Replicate,Replicate,Company,5,"company,ai,inference",4,5,2026-07-24,"AI deployment"
+
+togethercompute,Together AI,Together AI,Company,5,"company,llm",4,5,2026-07-24,"Open model ecosystem"
+Mercor,Mercor,Mercor,Company,5,"company,recruiting,ai,hiring",5,5,2026-07-24,"AI hiring marketplace"
+decagonai,Decagon,Decagon,Company,5,"company,ai,startup,hiring",5,5,2026-07-24,"Enterprise AI startup"
+Perplexity_AI,Perplexity,Perplexity,Company,5,"company,ai,hiring",5,5,2026-07-24,"Rapidly growing AI company"
+cursor_ai,Cursor,Cursor,Company,5,"company,ai,developer-tools,hiring",5,5,2026-07-24,"Excellent engineering content"
+windsurf_ai,Windsurf,Windsurf,Company,5,"company,ai,developer-tools",5,5,2026-07-24,"AI coding tools"
+CognitionAI,Cognition,Cognition,Company,5,"company,ai,agents",5,5,2026-07-24,"Devin creators"
+FactoryAI,Factory,Factory,Company,4,"company,ai,startup",4,5,2026-07-24,"AI software engineering"
+CodeiumDev,Codeium,Codeium,Company,4,"company,ai,coding",4,5,2026-07-24,"AI coding assistant"
+OpenRouterAI,OpenRouter,OpenRouter,Company,5,"company,llm,inference",4,5,2026-07-24,"Model ecosystem"
+ollama,Ollama,Ollama,Company,5,"company,llm,opensource",3,5,2026-07-24,"Local LLM ecosystem"
+vllm_project,vLLM,vLLM,Open Source,5,"opensource,llm,inference",2,5,2026-07-24,"Inference engine"
+huggingface,Hugging Face,Hugging Face,Company,5,"company,opensource,models",5,5,2026-07-24,"Models and hiring"
+
+Vercel,Vercel,Vercel,Company,5,"company,frontend,hiring",5,5,2026-07-24,"Developer platform"
+Supabase,Supabase,Supabase,Company,5,"company,database,hiring",5,5,2026-07-24,"Open-source backend"
+CloudflareDev,Cloudflare Developers,Cloudflare,Developer Platform,5,"company,infra,developer-tools",5,5,2026-07-24,"Workers ecosystem"
+GitHub,GitHub,GitHub,Company,5,"company,opensource,hiring",5,5,2026-07-24,"Engineering openings"
+StripeDev,Stripe Developers,Stripe,Developer Platform,5,"company,payments",4,5,2026-07-24,"Developer APIs"
+Datadog,Datadog,Datadog,Company,4,"company,observability",4,5,2026-07-24,"Infrastructure"
+Sentry,Sentry,Sentry,Company,4,"company,observability,opensource",4,5,2026-07-24,"Developer tools"
+Redisinc,Redis,Redis,Company,4,"company,database",4,5,2026-07-24,"Database platform"
+Elastic,Elastic,Elastic,Company,4,"company,search",4,5,2026-07-24,"Search and observability"
+ClickHouseDB,ClickHouse,ClickHouse,Company,4,"company,database,analytics",4,5,2026-07-24,"Analytics database"
+
+calcom,Cal.com,Cal.com,Company,4,"opensource,startup",4,5,2026-07-24,"Open-source scheduling"
+peer_rich,Peer Richelsen,Cal.com,Co-founder,5,"founder,opensource",4,5,2026-07-24,"Founder who hires"
+steventey,Dub,Dub,Founder,5,"founder,opensource,marketing",4,5,2026-07-24,"Developer founder"
+dubdotco,Dub,Dub,Company,4,"company,opensource",3,4,2026-07-24,"Open-source SaaS"
+
+Wellfound,Wellfound,Wellfound,Company,5,"jobs,startups",5,5,2026-07-24,"Startup jobs"
+RemoteOK,Remote OK,Remote OK,Company,5,"jobs,remote",5,5,2026-07-24,"Remote engineering jobs"
+weworkremotely,We Work Remotely,WWR,Company,5,"jobs,remote",5,5,2026-07-24,"Remote jobs"
+HimalayasApp,Himalayas,Himalayas,Company,5,"jobs,remote",5,5,2026-07-24,"Remote-first companies"
+
+buildspace,buildspace,buildspace,Community,5,"community,startups",3,5,2026-07-24,"Builder community"
+PioneerApp,Pioneer,Pioneer,Community,5,"community,startups",3,5,2026-07-24,"Startup founders"
+ProductHunt,Product Hunt,Product Hunt,Company,4,"products,startups",2,5,2026-07-24,"Product launches"

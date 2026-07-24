@@ -5,3 +5,6 @@ push:
 	git add .; \
 	git commit -m "$$commit_message"; \
 	git push origin $$current_branch
+
+login:
+	python x/manager.py login
